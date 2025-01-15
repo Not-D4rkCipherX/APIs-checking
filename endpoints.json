@@ -1,4 +1,4 @@
-{
+{  
   "clayton": "https://tonclayton.fun/api/aT83M535-617h-5deb-a17b-6a335a67ffd5",
   "pineye": "https://api2.pineye.io/api",
   "memex": "https://memex-preorder.memecore.com",
@@ -15,6 +15,13 @@
   "sleep": "https://tgapi.sleepagotchi.com/v1/tg",
   "duckChain": "https://aad.duckchain.io",
   "zoo": "https://api.zoo.team",
+  "tabizoo": "https://api.tabibot.com/api",
+  "tapswap": "https://api.tapswap.club/api",
+  "sosovalue": "https://gw.sosovalue.com/tavern/api/tg/",
+  "capx": "https://api.superapp.capx.ai",
 
-  "copyright": "Script By (https://t.me/D4rkCipherX)"
+  "catopia": "",
+  "kitty": "",
+  "taker": "",
+  "copyright": "Join Here For More Scripts And Updates: (https://t.me/D4rkCipherX)"
 }
