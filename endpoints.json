@@ -1,4 +1,4 @@
-{  
+{
   "clayton": "https://tonclayton.fun/api/aT83M535-617h-5deb-a17b-6a335a67ffd5",
   "pineye": "https://api2.pineye.io/api",
   "memex": "https://memex-preorder.memecore.com",
@@ -12,17 +12,45 @@
   "meshchain": "https://api.meshchain.ai/meshmain",
   "wizzwoods": "https://game-api.wizzwoods.com/api/v1",
   "uxuy": "https://miniapp.uxuy.one/rpc",
-  "sleep": "https://tgapi.sleepagotchi.com/v1/tg",
+  "sleep": "https://telegram-api.sleepagotchi.com/v1/tg",
   "duckChain": "https://aad.duckchain.io",
   "zoo": "https://api.zoo.team",
   "tabizoo": "https://api.tabibot.com/api",
   "tapswap": "https://api.tapswap.club/api",
   "sosovalue": "https://gw.sosovalue.com/tavern/api/tg/",
   "capx": "https://api.superapp.capx.ai",
-
+  "kushempire": "https://api.kushempire.games/api",
+  "xstar": "https://game.xname.app",
+  "magic": "https://www.magicnewton.com/portal/api",
+  "kite": {
+    "agents": {
+      "deployment_Hp4Y88pxNQXwLMPxlLICJZzN": "Kite AI Assistant",
+      "deployment_nC3y3k7zy6gekSZMCSordHu7": "Crypto Price Assistant"
+    },
+    "apis": [
+      {
+        "api": "https://deployment-hp4y88pxnqxwlmpxllicjzzn.stag-vxzy.zettablock.com/main",
+        "agent_id": "deployment_Hp4Y88pxNQXwLMPxlLICJZzN",
+        "name": "Kite AI Assistant",
+        "questions": []
+      },
+      {
+        "api": "https://deployment-nc3y3k7zy6gekszmcsordhu7.stag-vxzy.zettablock.com/main",
+        "agent_id": "deployment_nC3y3k7zy6gekSZMCSordHu7",
+        "name": "Crypto Price Assistant",
+        "questions": []
+      },
+      {
+        "api": "https://deployment-sofftlsf9z4fya3qchykaanq.stag-vxzy.zettablock.com/main",
+        "agent_id": "deployment_SoFftlsf9z4fyA3QCHYkaANq",
+        "name": "Transaction Analyzer",
+        "questions": []
+      }
+    ]
+  },
   "catopia": "",
   "kitty": "",
   "taker": "",
-  
-  "copyright": "Join Here For More Scripts And Updates: (https://t.me/D4rkCipherX)"
+
+  "copyright": "Telegram Channel (https://t.me/D4rkCipherX)"
 }
